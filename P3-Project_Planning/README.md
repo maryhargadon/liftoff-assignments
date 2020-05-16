@@ -12,7 +12,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 *![Home page wireframe]<img src="/homepage.jpg" width="100" />
 *![User account wireframe](/userAccount.jpg =50x)
-*![Add a book wireframe](/addAbook.jpg)
+*![Add a book wireframe](addAbook.jpg)
 
 ### Project Tracker
 
