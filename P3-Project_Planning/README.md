@@ -10,9 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-*Home page: ![Home page wireframe](homepage.jpg | width=50) 
-*![User account wireframe](userAccount.jpg)
-*![Add a book wireframe](addAbook.jpg)
+*Home page: ![Home page wireframe](homepage.jpg) 
+*User account: ![User account wireframe](userAccount.jpg)
+*Add a book: ![Add a book wireframe](addAbook.jpg)
 
 ### Project Tracker
 
